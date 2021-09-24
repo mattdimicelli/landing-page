@@ -12,6 +12,7 @@ html {
 
 body {
     margin: 0;
+    font-family: sans-serif;
 }
 
 .hero, footer, header {
@@ -96,6 +97,11 @@ nav > ul > li {
     font-weight: bold;
 }
 
+.square {
+    border: 2px solid #3882F6;
+    
+}
+
 .signup-btn1 {
     border: none;
 }
@@ -112,6 +118,11 @@ h2 {
 
 .thor-quote {
     background-color: #E5E7EB;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
 }
 
 .thor-quote p {
@@ -119,4 +130,22 @@ h2 {
     font-style: italic;
     font-weight: 300;
     color: #1F2937;
+    margin: 0;
+}
+
+.thor-quote blockquote {
+    margin: 0;
+}
+
+.thor-quote figcaption {
+    font-size: 22px;
+    font-weight: 900;
+    color: black;
+    align-self: flex-end;
+}
+
+.thor-text {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
 }
