@@ -24,8 +24,12 @@ body {
 
 .hero-main-text {
     font-size: 48px;
-    font-weight: 900;
+    font-weight: 800;
     margin: 0;
+}
+
+.hero-text-and-btn {
+    width: 50%;
 }
 
 .hero > button {
@@ -37,6 +41,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 75px 100px;
+    gap: 50px;
 }
 
 .logo-text {
@@ -69,3 +74,49 @@ nav > ul > li {
     align-items: center;
 }
 
+.fake-image.hero-sec-text {
+    width: 50%;
+    background-color: grey;
+    align-self: stretch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+
+}
+
+.signup-btn1, .signup-btn2 {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 22px;
+    font-weight: bold;
+}
+
+.signup-btn1 {
+    border: none;
+}
+
+.signup-btn2 {
+    border: 2px solid white;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.thor-quote {
+    background-color: #E5E7EB;
+}
+
+.thor-quote p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+}
