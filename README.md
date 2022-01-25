@@ -1,4 +1,31 @@
-# README
+# Readme
+# Landing Page
 
-For this assignment I am to build a website from the ground up with the goal of it looking like an image of a complete website which is supplied by the Odin Project.
+## Overview
+
+See the design requirements from the Odin Project curriculum [here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page). 
+
+### Screenshot
+
+<p align="center">
+  <img src="./screenshot_for_readme.png" alt="screenshot of landing page" width="30%" height="30%">
+</p>
+
+### Links
+
+- [Live site](https://mattdimicelli.github.io/landing-page/)
+- [Repo](https://github.com/mattdimicelli/landing-page)
+
+## My process
+
+### Built with
+- HTML
+- CSS
+- Git
+- Github Hosting
+
+### What I learned
+
+See project description.
+
 
