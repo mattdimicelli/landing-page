@@ -8,7 +8,7 @@ See the design requirements from the Odin Project curriculum [here](https://www.
 ### Screenshot
 
 <p align="center">
-  <img src="./screenshot_for_readme.png" alt="screenshot of landing page" width="30%" height="30%">
+  <img src="./screenshot_for_readme.png" alt="screenshot of landing page" width="60%" height="60%">
 </p>
 
 ### Links
